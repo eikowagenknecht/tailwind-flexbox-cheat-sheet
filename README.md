@@ -1,7 +1,7 @@
 # Tailwind Flexbox Cheat Sheet
 
 A dynamic, interactive Flexbox cheat sheet built with React and Tailwind CSS, with automatic PDF generation capabilities.
-See my [blog post](https://eikowagenknecht.de/blog/tailwind-flexbox-cheat-sheet) for more information and a live demo.
+See my [blog post](https://eikowagenknecht.de/posts/tailwind-flexbox-cheat-sheet/) for more information and a live demo.
 
 ## Features
 
